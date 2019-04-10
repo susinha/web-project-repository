@@ -9,3 +9,6 @@ Project must be tested before deployment
 
 ## Deployment folder 
 Another section added.
+
+##Team Info
+Subhadeep Sinha
