@@ -1,2 +1,6 @@
 .txt
+<<<<<<< HEAD
 *.orig
+=======
+*.orig
+>>>>>>> 0672919... changes for cherry pick commit

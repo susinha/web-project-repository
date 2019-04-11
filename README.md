@@ -10,8 +10,6 @@ Project must be tested before deployment
 ## Deployment folder 
 Another section added.
 
-##Team Info
-Subhadeep Sinha
+## One commit added
+cherry pick commit
 
-
-Git stashing in branch feature
