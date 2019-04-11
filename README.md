@@ -14,4 +14,4 @@ Another section added.
 Subhadeep Sinha
 
 
-Stashing example 2
+Git stashing in branch feature
